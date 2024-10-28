@@ -5,7 +5,7 @@ Welcome to the 7-Day Observability Tutorial Series! This repository contains the
 
 ## 📅 Overview of Each Day
 
-### Day 1: Introduction to Observability
+### Day 1: Introduction to Observability 
 - **Concepts Covered**:
   - Introduction to Observability, Monitoring, Logging, and Tracing.
   - The difference between Monitoring and Observability.
